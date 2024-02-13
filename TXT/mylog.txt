@@ -10,3 +10,9 @@ ZCZC W00 200 L02 OS class via Zoom
 ZCZC W00 20 L01 Checking Scele here and there
 ZCZC W00 240 L09 Weekly assignment 0 (mostly reading Silberschatz chapter 1, 2, and 18)
 ZCZC W00 4 L05 Quiz
+
+ZCZC W01 200 L02 OS class via Zoom
+ZCZC W01 20 L01 Checking Scele here and there
+ZCZC W01 120 L09 Weekly assignment 1 
+ZCZC W01 300 L06 GSGS related
+ZCZC W01 4 L05 Quiz
