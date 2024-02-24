@@ -11,3 +11,6 @@ permalink: LINKS/
 * [![Virtualization Explained](http://www.img.youtube.com/vi/FZR0rG3HKIk/0.jpg)](https://www.youtube.com/watch?v=FZR0rG3HKIk) --- A 3-minute YouTube video explaining the concept of virtualization. Helps me to grasp the concept.
 
 * [Cryptographic Right Answers](https://www.latacora.com/blog/2018/04/03/cryptographic-right-answers/) --- An article explaining the uses of different cryptography tools. Interesting and pretty useful to learn about. 
+
+* [What is a FUSE filesystem?](https://medium.com/@goamaral/fuse-filesystem-b44768f27aa2) --- A short article explaining the overview of FUSE. Helps me to grasp the concept.
+
