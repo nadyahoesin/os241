@@ -14,3 +14,6 @@ permalink: LINKS/
 
 * [What is a FUSE filesystem?](https://medium.com/@goamaral/fuse-filesystem-b44768f27aa2) --- A short article explaining the overview of FUSE. Helps me to grasp the concept.
 
+* [![you will never ask about pointers again after watching this video](http://www.img.youtube.com/vi/2ybLD6_2gKM/0.jpg)](https://www.youtube.com/watch?v=2ybLD6_2gKM) --- A 8-minute YouTube video explaining the concept of pointers in C. Helps me to grasp the concept.
+
+[![Pointers in C / C++ [Full Course]](http://www.img.youtube.com/vi/zuegQmMdy8M/0.jpg)](https://www.youtube.com/watch?v=zuegQmMdy8M) --- A 3-hour YouTube video / course on pointers in C and C++. In-depth explanation to help me get a deep understanding on this relatively hard concept.
