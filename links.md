@@ -17,3 +17,7 @@ permalink: LINKS/
 * [![you will never ask about pointers again after watching this video](http://www.img.youtube.com/vi/2ybLD6_2gKM/0.jpg)](https://www.youtube.com/watch?v=2ybLD6_2gKM) --- A 8-minute YouTube video explaining the concept of pointers in C. Helps me to grasp the concept.
 
 * [![Pointers in C / C++ [Full Course]](http://www.img.youtube.com/vi/zuegQmMdy8M/0.jpg)](https://www.youtube.com/watch?v=zuegQmMdy8M) --- A 3-hour YouTube video / course on pointers in C and C++. In-depth explanation to help me get a deep understanding on this relatively hard concept.
+
+* [Virtual Memory in Operating System](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) --- A short article explaining the overview of virtual memory in operating system. This article goes over some of the main topics covered in Silberschatz.
+
+* [![16.2.2 Basics of Virtual Memory](https://www.img.youtube.com/vi/8yO2FBBfaB0/0.jpg)](https://www.youtube.com/watch?v=8yO2FBBfaB0) --- A 12-minutes lecture videos explaining the basics of virtual memory. Helps me to grasp the concept.
