@@ -31,12 +31,18 @@ ZCZC W03 4 L05 Quiz
 
 ZCZC W04 200 L02 OS class
 ZCZC W04 20 L01 Checking Scele here and there
-ZCZC W04 90 L09 Weekly assignment 3 
+ZCZC W04 90 L09 Weekly assignment 4 
 ZCZC W04 300 L06 GSGS related
 ZCZC W04 4 L05 Quiz
 
 ZCZC W05 200 L02 OS class
 ZCZC W05 20 L01 Checking Scele here and there
-ZCZC W05 120 L09 Weekly assignment 3 
+ZCZC W05 120 L09 Weekly assignment 5 
 ZCZC W05 200 L06 GSGS related
 ZCZC W05 4 L05 Quiz
+
+ZCZC W06 200 L02 OS class
+ZCZC W06 20 L01 Checking Scele here and there
+ZCZC W06 120 L09 Weekly assignment 6 
+ZCZC W06 240 L06 GSGS related
+ZCZC W06 4 L05 Quiz
