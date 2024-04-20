@@ -46,3 +46,9 @@ ZCZC W06 20 L01 Checking Scele here and there
 ZCZC W06 120 L09 Weekly assignment 6 
 ZCZC W06 240 L06 GSGS related
 ZCZC W06 4 L05 Quiz
+
+ZCZC W07 200 L02 OS class
+ZCZC W07 20 L01 Checking Scele here and there
+ZCZC W07 90 L09 Weekly assignment 7 
+ZCZC W07 300 L06 GSGS related
+ZCZC W07 4 L05 Quiz

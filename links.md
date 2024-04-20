@@ -23,3 +23,6 @@ permalink: LINKS/
 * [![16.2.2 Basics of Virtual Memory](https://www.img.youtube.com/vi/8yO2FBBfaB0/0.jpg)](https://www.youtube.com/watch?v=8yO2FBBfaB0) --- A 12-minutes lecture videos explaining the basics of virtual memory. Helps me to grasp the concept.
 
 * [![Producer - Consumer Problem in Multi-Threading](https://www.img.youtube.com/vi/l6zkaJFjUbM/0.jpg)](https://www.youtube.com/watch?v=l6zkaJFjUbM) --- A 25-minute YouTube video explaining the producer-consumer problem in multi-threading. In-depth explanation to help me get a deep understanding on this relatively hard concept.
+
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/?ref=lbp) --- Articles explaining the overview of process synchronization, race condition vulnerability, critical section, and mutual exclusion. These articles go over some of the main topics covered in Silberschatz.
+
