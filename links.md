@@ -26,3 +26,4 @@ permalink: LINKS/
 
 * [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/?ref=lbp) --- Articles explaining the overview of process synchronization, race condition vulnerability, critical section, and mutual exclusion. These articles go over some of the main topics covered in Silberschatz.
 
+* [Kernotex YouTube Channel](https://www.youtube.com/@Kernotex/videos) --- A YouTube channel walking through the Linux From Scratch book. Helps answer some wuestions I had during doing the book.
