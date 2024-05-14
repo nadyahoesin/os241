@@ -65,3 +65,9 @@ ZCZC W09 210 L09 Weekly assignment 9
 ZCZC W09 120 L06 GSGS related
 ZCZC W09 4 L05 Quiz
 ZCZC W09 200 L02 OS class
+
+ZCZC W10 20 L01 Checking Scele here and there
+ZCZC W10 360 L09 Weekly assignment 10 
+ZCZC W10 120 L06 GSGS related
+ZCZC W10 4 L05 Quiz
+ZCZC W10 200 L02 OS class
